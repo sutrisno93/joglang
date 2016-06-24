@@ -1,0 +1,2 @@
+$('#size').resizable({
+	handles: 'e'});

@@ -1,0 +1,45 @@
+body{
+	margin : 0px;
+	background : grey;
+}
+/*
+KET:
+- class = warna merah
+- id = warna biru muda
+- biru tua = langsung tag html
+*/
+
+/* form login */
+.bg-form-login{
+  display :none;
+  background: #fff;
+  margin : 0px auto 0 auto;
+  padding : 20px;
+  color: #444;
+  border-top: 0;
+  color: #666;
+  width :300px;
+
+}
+
+.login-logo{
+	font-size: 35px;
+	text-align: center;
+	margin-bottom: 25px;
+	font-weight: 300;
+	width : 300px;
+	margin :80px auto 0px auto;
+	background : url("img/joglang.jpg"); 
+    background-repeat : no-repeat;
+
+}
+
+.joglang {
+    background-repeat : no-repeat;
+	width : 300px;
+	margin :80px auto 0px auto;
+
+}
+
+
+

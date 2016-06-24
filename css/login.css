@@ -1,0 +1,45 @@
+body {
+	margin-top :0px;
+	background : grey;
+}
+
+
+.desain #pesan-atas {
+display : none;
+margin: 80px auto 0 auto;
+width : 300px;
+background : #0a73a4;
+padding: 17px;
+font-size : 17px;
+color: #fff;
+}
+
+.desain input {
+	width: 100%;  
+	-webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box; 
+	box-sizing: border-box;
+	padding: 10px; 
+	min-height: 15px; 
+	font-size: 13px !important; 
+	border: 0; 
+	color: #999;
+	background: #fff; padding-left: 30px; 
+}
+
+.desain #nama-span {
+text-transform: capitalize;
+}
+.desain #pass-span {
+text-transform: capitalize;
+}
+
+.btn{ 
+	
+	padding: 12px 0; 
+	border: 0; 
+	text-transform: uppercase; 
+	font-size: 13px; 
+	text-shadow: 1px 1px rgba(0,0,0,0.2);
+	box-shadow: 0 2px 3px rgba(0,0,0,0.3); 
+}
