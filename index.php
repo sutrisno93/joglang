@@ -9,7 +9,7 @@
   <body>
 	<div class="login-logo-bg" >
 		<div class="joglang">
-		<img src="css/img/joglang.jpg" />
+		<img src="css/img/joglang.jpg"/>
 		</div>	
 	</div>
 	<div class="bg-form-login slide-login">
@@ -18,7 +18,6 @@
 			<div>
 				<p><input class="form-control tooltip-right" type="text" id="username" name="username"  placeholder="username" title="Masukan Username" /><br /></p>
 			</div>
-			
 			<div>
 				<p><input class="form-control tooltip-right" type="password" id="password" name="password" placeholder="password" title="Masukan Password"/><br /> </p>
 			</div>
@@ -26,7 +25,6 @@
 				<div class="col-xs-5">
 					<input class="btn" id="" type="submit" value="Masuk"> 
 				</div>
-				
 			</div>
 		</form>
 		<hr>
