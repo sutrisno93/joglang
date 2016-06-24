@@ -2,9 +2,7 @@
 <html>
 <head><title>Login Member</title>
 <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" />  
-<link href="css/login2.css" rel="stylesheet" type="text/css" />
-
-
+<link href="css/login2.css" rel="stylesheet" type="text/css"/>
 </head>
   <body>
 	<div class="login-logo-bg" >
