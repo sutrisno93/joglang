@@ -6,7 +6,7 @@
 
 
 </head>
-  <body >
+  <body>
 	<div class="login-logo-bg" >
 		<div class="joglang">
 		<img src="css/img/joglang.jpg" />
