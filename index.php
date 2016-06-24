@@ -5,7 +5,7 @@
 <link href="css/login2.css" rel="stylesheet" type="text/css"/>
 </head>
   <body>
-	<div class="login-logo-bg" >
+	<div class="login-logo-bg">
 		<div class="joglang">
 		<img src="css/img/joglang.jpg"/>
 		</div>	
