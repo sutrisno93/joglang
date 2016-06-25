@@ -57,7 +57,7 @@ if (empty($_SESSION['namauser']) AND empty($_SESSION['passuser'])){echo "login d
 							<!---mulai dari sini --->
 							<ul class="dropdown-menu" id="info">
 									<li>
-                    <!-- inner menu: data pesan dari database-->
+                    		<!-- inner menu: data pesan dari database-->
 									<ul class="menu" id="konten-info">
 									<div id="loading"><br><img src="load2.gif"></div>  
 									</ul>
@@ -89,11 +89,7 @@ if (empty($_SESSION['namauser']) AND empty($_SESSION['passuser'])){echo "login d
 						  </li>
 					</ul>
 				</div>
-				<?php } ?>
-				
-				
-				
-				
+				<?php } ?>				
 				<?php	if ($_SESSION['leveluser']=='user'){ ?>
 				<div class="navbar-custom-menu">
 					<ul class="nav navbar-nav">
@@ -115,7 +111,6 @@ if (empty($_SESSION['namauser']) AND empty($_SESSION['passuser'])){echo "login d
 					</ul>
 				</div>
 				<?php } ?>
-				
 			</nav>
 		</header>
 			<aside class="main-sidebar">
