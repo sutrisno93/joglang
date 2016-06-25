@@ -9,7 +9,6 @@ if ($_SESSION['leveluser']=='admin'){
     echo "<li><a href=\"$m[link]\"><i class=\"fa fa-envelope\"></i> <span>$m[nama_modul]</span> </a></li>";
   }	
 }
-
 //jika user akan tampil menu user (kiri)
 elseif ($_SESSION['leveluser']=='user'){
   $query = "SELECT * FROM modul WHERE status='user' and aktif='Y' ORDER BY urutan";

@@ -13,11 +13,11 @@ else{
 <body>
 	<div class="jumbotron">
 		<div class="container">
-        <p>Hallo,  aplikasi web toko cabang ini saya buat hanya sebagai media pembelajaran saya. Stok barang,pembayaran dan transaksi di aplikasi ini
-	    hanya sebagai simulasi dari kinerja web.<p>
-		<p>Cantumkan komentar, kritik dan saran anda.</p>
-		<a class="btn btn-primary btn-md" data-toggle="modal" data-target="#yourmodal" href="#" role="button">Kritik & Saran</a></p>
-      </div>
+	        <p>Hallo,  aplikasi web toko cabang ini saya buat hanya sebagai media pembelajaran saya. Stok barang,pembayaran dan transaksi di aplikasi ini
+		    hanya sebagai simulasi dari kinerja web.<p>
+			<p>Cantumkan komentar, kritik dan saran anda.</p>
+			<a class="btn btn-primary btn-md" data-toggle="modal" data-target="#yourmodal" href="#" role="button">Kritik & Saran</a></p>
+      	</div>
 		</div>
 		
 		<div class="modal fade" id="yourmodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
