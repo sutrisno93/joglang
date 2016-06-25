@@ -132,16 +132,13 @@ if (empty($_SESSION['namauser']) AND empty($_SESSION['passuser'])){echo "login d
 						<li><a href="?module=beranda"> <i class="fa fa-envelope"></i> <span>Beranda</span> </a></li>
 								<?php include "menu.php"; ?>
 						<li><a href="logout.php"> <i class="fa fa-envelope"></i> <span>Keluar</span></a></li>
-					</ul>
-					
-					
-		
+					</ul>		
 				</section>
 			</aside>
 			<div class="content-wrapper">
-			<section class="content">
-			<?php include "content.php"; ?>
-			</section>
+				<section class="content">
+				<?php include "content.php"; ?>
+				</section>
 			</div>
 </div>
  <footer class="main-footer">
