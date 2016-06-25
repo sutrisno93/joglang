@@ -38,6 +38,5 @@
 	</div>
 <script type="text/javascript" src="css/js/jquery-1.10.1.js"></script>
 <script type="text/javascript" src="css/js/admintamp.js"></script>
-
  </body>
 </html>

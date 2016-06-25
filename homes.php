@@ -17,7 +17,6 @@ if (empty($_SESSION['namauser']) AND empty($_SESSION['passuser'])){echo "login d
 <link href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
 <link href="css/pass-checker.css" rel="stylesheet" type="text/css" /> 
 <link href="css/bootstrapValidator.css" rel="stylesheet" type="text/css" />
-
 </head>
 <body class="skin-purple sidebar-mini">
 <div class="wrapper">			
