@@ -17,7 +17,5 @@ elseif ($_SESSION['leveluser']=='user'){
   while ($m=mysqli_fetch_array($hasil)){  
     echo "<li><a href=\"$m[link]\"><i class=\"fa fa-envelope\"></i> <span>$m[nama_modul]</span></a></li>";
   }
-  }
-
-
+}
 ?>
