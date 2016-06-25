@@ -11,7 +11,6 @@
 		</div>	
 	</div>
 	<div class="bg-form-login slide-login">
-
 		<form class="form-group has-feedback" method="POST" action="t_login.php">
 			<div>
 				<p><input class="form-control tooltip-right" type="text" id="username" name="username"  placeholder="username" title="Masukan Username" /><br /></p>
